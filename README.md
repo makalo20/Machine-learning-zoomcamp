@@ -1,7 +1,7 @@
 # Machine-learning-zoomcamp
-Makalo-Machine-learning-zoomcamp
+Luka Lelakane (makalo20)
 
- 
- Hello world
+Homework 1 repository.
+
 
 
